@@ -89,8 +89,9 @@ EileCores/
 │   └── go.sum             # Dependency checksums
 ├── uploads/               # Server storage directory (auto-created)
 ├── server.log             # Server log file (auto-generated)
-├── README.md              # English documentation
+├── README.md              # English documentation (default)
 ├── README_zh.md           # Chinese documentation
+├── readme.md              # Original Chinese documentation (legacy)
 └── LICENSE                # MIT License
 ```
 
